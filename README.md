@@ -23,3 +23,17 @@ Predicted/Real:
 <p float="center">
   <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png" width="500" />
 </p>
+
+# Etapa de Teste
+Para a análise dos resultados, foram analisadas 3 métricas: IoU, Recall e Precision. Abaixo, seguem os valores obtidos para as 3 métricas e algumas imagens.
+
+IoU, Recall e Precision:
+<p float="left">
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/iou" width="500" />
+</p>
+
+Predicted Image vs Real Image:
+<p float="left">
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/0_gerada.png" width="500" />
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/0_real.png" width="500" /> 
+</p>
