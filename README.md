@@ -21,7 +21,7 @@ Predicted Image vs Real Image:
 Predicted/Real:
 
 <p float="center">
-  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png" width="500" />
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png" width="300" />
 </p>
 
 # Etapa de Teste
