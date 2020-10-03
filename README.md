@@ -9,4 +9,9 @@ Loss Over Epochs:
 ![Figura 1: Loss Over Epochs](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/Loss1.png)
 
 Predicted Image vs Real Image:
-![Figura 2: Predicted](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/ezgif-6-6f5d9df26f2f.gif)  | ![Figura 3: Real](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/75_real.png)
+<p float="left">
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/ezgif-6-6f5d9df26f2f.gif" width="100" />
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/75_real.png" width="100" /> 
+</p>
+
+
