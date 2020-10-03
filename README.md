@@ -29,7 +29,7 @@ Para a análise dos resultados, foram analisadas 3 métricas: IoU, Recall e Prec
 
 IoU, Recall e Precision:
 <p float="left">
-  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/iou" width="500" />
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/iou" width="300" />
 </p>
 
 Predicted Image vs Real Image:
