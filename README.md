@@ -7,7 +7,10 @@ Abaixo, são apresentadas algumas imagens dos resultados obtidos durante o trein
 
 Loss Over Epochs:
 
-![Figura 1: Loss Over Epochs](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/Loss1.png)
+<p float="left">
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/Loss1.png" width="500" />
+</p>
+
 
 Predicted Image vs Real Image:
 <p float="left">
@@ -15,4 +18,6 @@ Predicted Image vs Real Image:
   <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/75_real.png" width="500" /> 
 </p>
 
-![Figura 4: Predicted/Real](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png)
+<p float="left">
+  <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png" width="500" />
+</p>
