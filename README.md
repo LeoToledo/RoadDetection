@@ -18,6 +18,8 @@ Predicted Image vs Real Image:
   <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/75_real.png" width="500" /> 
 </p>
 
-<p float="left">
+Predicted/Real:
+
+<p float="center">
   <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png" width="500" />
 </p>
