@@ -6,6 +6,7 @@ SqueezeNet Paper: https://arxiv.org/abs/1602.07360
 Abaixo, são apresentadas algumas imagens dos resultados obtidos durante o treinamento
 
 Loss Over Epochs:
+
 ![Figura 1: Loss Over Epochs](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/Loss1.png)
 
 Predicted Image vs Real Image:
@@ -14,4 +15,4 @@ Predicted Image vs Real Image:
   <img src="https://github.com/LeoToledo/RoadDetection/blob/main/imgs/75_real.png" width="500" /> 
 </p>
 
-
+![Figura 4: Predicted/Real](https://github.com/LeoToledo/RoadDetection/blob/main/imgs/individualImage%20(3).png)
